@@ -6,7 +6,7 @@
 
 **Avertissement** : Ceci est un projet d'étude et ne peut en aucun cas être utiliser dans la vraie vie.
 
-Modèle de **Deep Learning** construit en utilisant un **Réseau Neuronal Convulsif (CNN)**, afin de détecter par l'intermédiaire de radiographies du thorax les pathologies de COVID-19. Les données (radiographies du thorax) sont issues d'images open-source de patients atteints de COVID-19, d'autes pathologies pulmonaires et de patients sains.
+Modèle de **Deep Learning** construit en utilisant un **Réseau Neuronal Convolutif (CNN)**, afin de détecter par l'intermédiaire de radiographies du thorax les pathologies de COVID-19. Les données (radiographies du thorax) sont issues d'images open-source de patients atteints de COVID-19, d'autes pathologies pulmonaires et de patients sains.
 
 Ce projet vise à détecter automatiquement les patients atteint de COVID-19 dans l'ensemble des données que nous avons recueilies. 
 
