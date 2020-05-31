@@ -1,4 +1,7 @@
 # Covid-19 Chest X-ray Detector
+
+[English version of this document](./README.md)
+
 ## Aperçu
 
 **Avertissement** : Ceci est un projet d'étude et ne peut en aucun cas être utiliser dans la vraie vie.
